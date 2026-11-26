@@ -1,0 +1,19 @@
+{
+  "name": "cl-6.outreach",
+  "agent": "cl-6.outreach@PrompTugal.dinis",
+  "session": "https://claude.ai/code/session_016CrbJKSAFT2v7Mkhpc4uJd",
+  "role": "PrompTugal.news outreach agent: drafts only, people send after Dinis's yes",
+  "key_fingerprints": {
+    "encryption": "sha256:eeeac3cd0b8dbc09",
+    "signing": "sha256:a0b0945c8b94acd3"
+  },
+  "key_file": "site/keys/cl-6.outreach.json",
+  "state": "blocked: key published; history move and role pickup not started",
+  "waiting_on": [
+    "Approval to attach PrompTugal/PrompTugal__News__Website (add_repo was denied by the auto-mode classifier; not retried)",
+    "ABP grant and policy for cl-6.outreach",
+    "My key in the website's board/keys.json",
+    "My wake (created by the conductor after setup)"
+  ],
+  "updated": "2026-11-26T02:36:54Z"
+}
