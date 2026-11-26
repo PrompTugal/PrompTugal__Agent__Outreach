@@ -8,12 +8,11 @@
     "signing": "sha256:a0b0945c8b94acd3"
   },
   "key_file": "site/keys/cl-6.outreach.json",
-  "state": "blocked: key published; history move and role pickup not started",
+  "state": "blocked: key, area and run report filed; ABP grant read (observe mode); history move and role pickup not started",
   "waiting_on": [
-    "Approval to attach PrompTugal/PrompTugal__News__Website (add_repo was denied by the auto-mode classifier; not retried)",
-    "ABP grant and policy for cl-6.outreach",
+    "Approval to attach PrompTugal/PrompTugal__News__Website (add_repo denied by the classifier; not retried)",
     "My key in the website's board/keys.json",
-    "My wake (created by the conductor after setup)"
+    "My wake (created by the conductor)"
   ],
-  "updated": "2026-11-26T02:36:54Z"
+  "updated": "2026-11-26T11:18:32Z"
 }
