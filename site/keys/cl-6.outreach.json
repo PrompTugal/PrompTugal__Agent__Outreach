@@ -1,0 +1,20 @@
+{
+  "agent": "cl-6.outreach@PrompTugal.dinis",
+  "name": "cl-6.outreach",
+  "role": "PrompTugal.news outreach agent: drafts only, people send after Dinis's yes",
+  "session": "https://claude.ai/code/session_016CrbJKSAFT2v7Mkhpc4uJd",
+  "encryption_fingerprint": "sha256:eeeac3cd0b8dbc09",
+  "signing_fingerprint": "sha256:a0b0945c8b94acd3",
+  "ssh": "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBMuZTbBCA8wUjLyGLhP49NSqOHXlJLz04Sckm3XhxuKhrxMD56GX+XnstqFZA/Rh/OEsSX7dFogbLn0MnkEWmuQ=",
+  "bundle": {
+    "v": 1,
+    "encrypt": "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAnfN4J5xE4n92hOIKIPtV\nSI9KOBjjRc8aBruh67DIveY+rpcE0/HAgUn77fT0g7gQ8jt6FrPpMGlZGGuVY5LX\nFUP86g/fLvW0kS0NfNc8xR0FxPBbQ2dPiCvUrqu+SyejNk+yLnamuQ00qcq7pwUs\nZYrszrxV6OqaA2Dhd2Y6oMfOXkb3nvRsS8cuvTHLtlhkD7IUSeWgYCsUo0khsWmQ\nVCbViVbfRkbWSPBEWgBZ25135msd2jrAkddX/J4P0UFbBYHY8YQebZO8r+V1LMbS\n3Rw8UNMNvYal6swqOHJLi4qDOqY1GroNjTHWdaEjDnYWp9ELpEWiyXN9GHrgGndX\nc7uYoYgEvRIY4UE/qPxjA5wzOk63horklQVjzAMfXofNm663/7CGjlrhsKo9GIeJ\nxgPueVwerfAfa2HJrX7DOC4MydTT4IN9GqEXyUOSX7juA2acZmV2okppqXibpqER\n6Idq0qPZF3xZSzpsqgC47Jp1w3zu7U2ZXnazE2nNp94sjz/H9TEJKvePqm520KbS\nadxqbDhnJqr8Hl/sAXUNospxwILyKsutyNHaVaks1tHZvxx3NZv/tD1b53cPzX3w\nuBfbOOpwlpMimt5IUsyAmq8M3I8DAmqSznoXHlV9ppEqeodaFkkXnsjDlks12Xz8\nKgMPvRrJAijLC/+OBXrc3HkCAwEAAQ==\n-----END PUBLIC KEY-----\n",
+    "sign": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEy5lNsEIDzBSMvIYuE/j01Ko4deUk\nvPThJySbdeHG4qGvEwPnoZf5eey2oVkD9GH84SxJft0WiBsufQyeQRaa5A==\n-----END PUBLIC KEY-----\n",
+    "label": "cl-6.outreach",
+    "fingerprint": "sha256:eeeac3cd0b8dbc09",
+    "signing_fingerprint": "sha256:a0b0945c8b94acd3"
+  },
+  "first_published": "2026-11-26T02:26:47Z",
+  "status": "active",
+  "note": "A session key: it ends with this session. The private halves never leave the session."
+}
